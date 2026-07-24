@@ -1,0 +1,9 @@
+[
+  { "name": "Ichiran", "taste": 7.5, "ease_of_access": 4.5 },
+  { "name": "Suzuran Sapporo", "taste": 7.25, "ease_of_access": 4 },
+  { "name": "Mensho SF", "taste": 6, "ease_of_access": 8.5 },
+  { "name": "Afuri", "taste": 7, "ease_of_access": 3 },
+  { "name": "Muginae (homemade)", "taste": 8, "ease_of_access": 8 },
+  { "name": "Muginae (Coredo)", "taste": 7, "ease_of_access": 3.5 },
+  { "name": "Ippudo Narita", "taste": 5.5, "ease_of_access": 1 }
+]
